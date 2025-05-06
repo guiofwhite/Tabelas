@@ -12,7 +12,7 @@ a {
 }
 
 .bt1 {
-    background-color: rgb(rgb(82, 78, 78), rgb(62, 63, 62), rgb(18, 18, 19));
+    background-color: rgb(224, 223, 223);
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
@@ -21,7 +21,7 @@ a {
 }
 
 .bt2 {
-    background-color: rgb(red, green, blue);
+    background-color: rgb(224, 223, 223);
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
@@ -30,7 +30,7 @@ a {
 }
 
 .bt3 {
-    background-color: transparent;
+    background-color: rgb(224, 223, 223);
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
