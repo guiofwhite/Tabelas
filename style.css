@@ -21,7 +21,7 @@ a {
 }
 
 .bt2 {
-    background-color: transparent;
+    background-color: rgb(red, green, blue);
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
