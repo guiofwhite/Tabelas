@@ -37,3 +37,7 @@ a {
     width: 300px;
     height: 180px;
 }
+
+li:hover{
+    color: rgb(0, 59, 99);
+}
