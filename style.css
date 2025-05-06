@@ -41,3 +41,7 @@ a {
 li:hover{
     color: rgb(0, 59, 99);
 }
+
+header li{
+    list-style-type: none;
+}
